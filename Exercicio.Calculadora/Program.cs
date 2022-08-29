@@ -6,7 +6,7 @@ namespace Exercicio.Calculadora
     {
         static void Main(string[] args)
         {
-            //tenta executar código
+            //tenta executar codigo
             try
             {
                 #region codigo aqui
@@ -40,7 +40,7 @@ namespace Exercicio.Calculadora
 
                 #endregion codigo aqui
             }
-            //captura erro/falha/excessao
+            //captura erro/falha/excecao
             catch 
             {
                 Console.WriteLine("Digite um valor correto!");
